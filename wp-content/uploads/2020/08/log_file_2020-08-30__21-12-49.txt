@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Fashion Blog were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/garage-ux
+Data file = D:\02-Trabajos\Trabajos 2020\00-XAMPP\htdocs\garage-ux/wp-content/themes/norebro/demo/18/content.xml
+Widget file = D:\02-Trabajos\Trabajos 2020\00-XAMPP\htdocs\garage-ux/wp-content/themes/norebro/demo/18/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Tag Cloud - Tags - Imported
+Categories - Categories - Imported
+Norebro: Recent Posts - No Title - Imported
+Recent Comments - Recent Comments - Imported
+Norebro: Subscribe - Subscribe - Imported
+Archives - No Title - Imported
+Norebro: Socialbar subscribe - Follow Us - Imported
+
+Pages : 
+
+Search - No Title - Imported
+Tag Cloud - Tags - Imported
+Categories - Categories - Imported
+Recent Posts - No Title - Imported
+Norebro: Subscribe - Subscribe - Imported
+Norebro: Socialbar subscribe - Social Networks - Imported
+Archives - No Title - Widget already exists
+Recent Comments - Recent Comments - Imported
+Norebro: Contact block - Contacts - Imported
+Meta - No Title - Widget already exists
+
+Footer column 1 : 
+
+Norebro: Subscribe - No Title - Imported
+Text - No Title - Imported
+
+Footer column 2 : 
+
+Norebro: Contact block - København - Imported
+Norebro: Socialbar subscribe - No Title - Imported
+
+Footer column 3 : 
+
+Recent Comments - No Title - Imported
+
+Footer column 4 : 
+
+Norebro: Recent Posts - Recent Posts - Imported
+
+Shop : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_price_filter - Filter by Price - Site does not support widget
+woocommerce_product_tag_cloud - Product Tags - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_products - Featured Products - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+
